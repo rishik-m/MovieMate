@@ -1,4 +1,3 @@
-import { Autorenew } from '@material-ui/icons';
 import React from 'react';
 import spinner from './Spinner.gif';
 
