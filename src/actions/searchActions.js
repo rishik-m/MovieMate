@@ -6,3 +6,5 @@ export const searchMovie= text => dispatch => {
         payload: text
     });
 }
+
+export default searchMovie;

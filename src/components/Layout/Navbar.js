@@ -3,7 +3,6 @@ import {
     IconButton,
     Toolbar,
     Typography,
-    Button,
   } from "@material-ui/core";
   import React from "react";
   import MovieCreationIcon from '@material-ui/icons/MovieCreation';
