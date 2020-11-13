@@ -1,3 +1,6 @@
+<h1> <b> Screenshots </b> </h1>
+<img src= "Screenshots/img.png" width= "700" /> <img src= "Screenshots/img1.png" width= "700" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
